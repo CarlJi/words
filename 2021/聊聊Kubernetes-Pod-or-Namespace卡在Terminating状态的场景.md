@@ -19,7 +19,7 @@
 
 > 参考链接: https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#pod-termination
 
-只有执行完第六步，Pod的API对象才会被真正删除。那怎样才认为是**"一切都清理干净了"**呢？我们来看源码:
+只有执行完第六步，Pod的API对象才会被真正删除。那怎样才认为是 **"一切都清理干净了"** 呢？我们来看源码:
 
 ``` go
 // PodResourcesAreReclaimed returns true if all required node-level resources that a pod was consuming have
