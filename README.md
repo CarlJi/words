@@ -19,6 +19,7 @@
 ---
 文章列表:
 * 2022
+    * [Linux Troubleshuting 超实用系列 - Disk Analysis](2022/Linux-Troubleshuting-%E8%B6%85%E5%AE%9E%E7%94%A8%E7%B3%BB%E5%88%97%E4%B9%8B-Disk-Analysis.md)
     * [一图搞懂Kubernetes网络](2022/一图搞懂Kubernetes网络.png)
         * PS: Chrome里查看体验更好 [svg版本这里下载](2022/一图搞懂Kubernetes网络.svg) 
     * [聊聊领导力与带团队的那些事](2022/聊聊领导力与带团队那些事.md)
