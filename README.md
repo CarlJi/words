@@ -22,7 +22,7 @@
     * [Linux Troubleshuting 超实用系列 - Disk Analysis](https://mp.weixin.qq.com/s/hC9EEQCuc2Ol6fJT1D72Yw)
     * [一图搞懂Kubernetes网络](2022/一图搞懂Kubernetes网络.png)
         * PS: Chrome里查看体验更好 [svg版本这里下载](2022/一图搞懂Kubernetes网络.svg) 
-    * [🔥聊聊领导力与带团队的那些事](2022/聊聊领导力与带团队那些事.md)
+    * [🔥聊聊领导力与带团队的那些事](https://mp.weixin.qq.com/s/JGAFApXz6210cANm8LBvwA)
 * 2021
     * [🔥构建高效 Presubmit 卡点，落地测试左移最佳实践](https://mp.weixin.qq.com/s/o0qK9Lm3OllSLQUb2CxHpw)
     * [🔥聊聊 Kubernetes Pod or Namespace 卡在 Terminating 状态的场景](https://mp.weixin.qq.com/s/6hb2q4BZbrz2Lpn2eFK5Eg)
